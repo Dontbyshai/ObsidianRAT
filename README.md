@@ -10,6 +10,9 @@
 > A custom-built Windows Remote Access Tool with a web-based Command & Control (C2) panel.
 > Forked and heavily modified from [win-rat](https://github.com/Tomiwa-Ot/win-rat) — rebuilt and extended to my own standards.
 
+> [!NOTE]
+> **Stealth:** Achieves a detection rate of **14/80 on VirusTotal** at the time of writing, thanks to dynamic API resolution, string encryption, and anti-analysis techniques.
+
 ---
 
 ## Features
