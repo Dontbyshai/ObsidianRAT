@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CloudSync.Services.Modules.Stream.Codec
+namespace ObsidianRAT.Services.Modules.Stream.Codec
 {
     /// <summary>
     /// Monitors network conditions and adjusts video bitrate accordingly.

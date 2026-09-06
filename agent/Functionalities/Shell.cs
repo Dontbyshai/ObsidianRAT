@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using CloudSync.Services.Core;
+using ObsidianRAT.Services.Core;
 
-namespace CloudSync.Services.Modules
+namespace ObsidianRAT.Services.Modules
 {
     public class ProcessHelper
     {

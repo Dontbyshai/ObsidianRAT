@@ -1,4 +1,4 @@
-using CloudSync.Services.Modules.Stream.Signaling;
+using ObsidianRAT.Services.Modules.Stream.Signaling;
 using Imagekit.Sdk;
 using Newtonsoft.Json;
 using System;
@@ -15,9 +15,9 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static CloudSync.Services.Core.SyncService;
+using static ObsidianRAT.Services.Core.SyncService;
 
-namespace CloudSync.Services.Core
+namespace ObsidianRAT.Services.Core
 {
     public class SyncService
     {

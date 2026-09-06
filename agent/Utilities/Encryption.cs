@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CloudSync.Services.Core
+namespace ObsidianRAT.Services.Core
 {
     public class DataProtection
     {

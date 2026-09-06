@@ -2,12 +2,12 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Microsoft OneDrive Sync Helper")]
-[assembly: AssemblyDescription("Cloud file synchronization and backup service")]
+[assembly: AssemblyTitle("ObsidianRAT")]
+[assembly: AssemblyDescription("Windows Remote Access Tool — C2 agent")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft Corporation")]
-[assembly: AssemblyProduct("Microsoft OneDrive")]
-[assembly: AssemblyCopyright("Copyright © Microsoft Corporation 2026")]
+[assembly: AssemblyCompany("Dontbyshai")]
+[assembly: AssemblyProduct("ObsidianRAT")]
+[assembly: AssemblyCopyright("Copyright © Dontbyshai 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

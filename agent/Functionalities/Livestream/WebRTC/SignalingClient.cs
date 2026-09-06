@@ -1,4 +1,4 @@
-using CloudSync.Services.Core;
+using ObsidianRAT.Services.Core;
 using Newtonsoft.Json;
 using SIPSorcery.Net;
 using System;
@@ -7,10 +7,10 @@ using System.Net.Http;
 using System.Security.Policy;
 using System.Threading;
 using System.Threading.Tasks;
-using static CloudSync.Services.Core.SyncService;
+using static ObsidianRAT.Services.Core.SyncService;
 using static System.Collections.Specialized.BitVector32;
 
-namespace CloudSync.Services.Modules.Stream.Signaling
+namespace ObsidianRAT.Services.Modules.Stream.Signaling
 {
     /// <summary>
     /// REST API client for WebRTC signaling with the backend server.

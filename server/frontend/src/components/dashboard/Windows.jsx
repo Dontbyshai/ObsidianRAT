@@ -2,8 +2,8 @@ import { useState } from "react";
 import TitleBar from "./TitleBar";
 import { toast } from "react-toastify";
 
-const AGENT_URL = "http://141.11.185.92/uploads/executable/helper.exe";
-const AGENT_URL_API = "http://141.11.185.92:8801/uploads/executable/helper.exe";
+const AGENT_URL = "http://<IP>/uploads/executable/helper.exe";
+const AGENT_URL_API = "http://<IP>:8801/uploads/executable/helper.exe";
 
 const scripts = [
     {

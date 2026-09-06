@@ -1,4 +1,4 @@
-﻿//using CloudSync.Services.Core;
+﻿//using ObsidianRAT.Services.Core;
 //using Microsoft.MixedReality.WebRTC;
 //using Newtonsoft.Json;
 //using SharpDX.Direct3D11;
@@ -12,7 +12,7 @@
 //using System.Threading.Tasks;
 //using Device = SharpDX.Direct3D11.Device;
 
-//namespace CloudSync.Services.Modules
+//namespace ObsidianRAT.Services.Modules
 //{
 //    public class StreamManager
 //    {

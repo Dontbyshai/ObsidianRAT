@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace CloudSync.Services.Core
+namespace ObsidianRAT.Services.Core
 {
     public class StringCipher
     {

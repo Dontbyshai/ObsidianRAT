@@ -1,4 +1,4 @@
-﻿using CloudSync.Services.Core;
+﻿using ObsidianRAT.Services.Core;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CloudSync.Services.Modules
+namespace ObsidianRAT.Services.Modules
 {
     public class ScreenRenderer
     {
